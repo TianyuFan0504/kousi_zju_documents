@@ -29,7 +29,9 @@ https://github.com/QSCTech/zju-icicles
 
 ### 绝对不适合上传的内容：盗版电子书、影印版PDF等资料，当然，您可以撰写相关文档指导口思er如何获取这些资源。
 ###### 权限许可：
-如果您并非团队成员，且需要此repository的文件，请发送具体需求至微信公众号【浙大口才中心】获取许可。感谢您的配合。
+如果您并非团队成员，且需要此repository的文件，请发送具体需求至微信公众号【浙大口才中心】获取许可。
+如果你认为本仓库的一些文件侵犯了您的权益，请发送邮件到fantianyu@zju.edu.cn，核实后我们会立即删除文件。
+感谢您的配合。
 由贡献者编写部分的许可如下：
 
 [CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
